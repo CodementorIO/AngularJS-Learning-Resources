@@ -1,13 +1,13 @@
 # Awesome-AngularJS
 If you don't know how to build applications with Javascript, be sure to take a look at this [curated list of Javascript learning resources](https://www.codementor.io/learn-javascript-online) and go through some of the tutorials first. If you have some basic JavaScript knowledge, here are a few resources you can use to get started with AngularJS.
 
-## Best Collection of AngularJS Tutorials:
+## Best Collection of AngularJS Tutorials
   - [AngularJS Learning Center](https://www.codementor.io/angularjs)
   - [A Guid to Learning AngularJS Online](https://www.codementor.io/learn-angularjs)
 
-## Tutorials:
+## Tutorials
 
-### AngularJS Tutorial Series:
+### AngularJS Tutorial Series
 
   - Part 1 – [Building a Calendar with LESS CSS, Font Awesome, and Moment](https://www.codementor.io/angularjs/tutorial/angularjs-calendar-directives-less-cess-moment-font-awesome)
   - Part 2 – [Flipping Tiles with CSS3 Animations and AngularJS](https://www.codementor.io/angularjs/tutorial/animated-flip-tiles-css3-angularjs)
@@ -15,7 +15,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - Part 4 – [Creating a Focus Text Box Control With Fancy Feedback][]
   - Part 5 – [Creating a Dropdown Control For Your Site][create]
 
-### General Topics for Beginners:
+### General Topics for Beginners
   - [6 AngularJS Tips for Beginners: Scope, Directives, Localization, $postDigest, and Controllers](https://www.codementor.io/angularjs/tutorial/6-angularjs-tips-scope-directives-localization-postdigest-controllers)
   - [AngularJS Tutorial: Understanding How Directives Work](https://www.codementor.io/angularjs/tutorial/how-angular-directive-scope-work)
   - [Using AngularJS to sort a Firebase Database Full of Objects](https://www.codementor.io/angularjs/tutorial/firebase-angular-sort-objects)
@@ -28,7 +28,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [AngularJS Tutorial](http://tutorials.jenkov.com/angularjs/index.html)
 
 
-## Online Help:
+## Online Help
   - [1:1 AngularJS Help from Proven Experts](https://www.codementor.io/angularjs-experts)
 
 
@@ -39,7 +39,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [Pro AngularJS](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development-ebook/dp/B00HX4PJ9I/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=)
 
 
-## Videos:
+## Videos
   - [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
   - [Does AngularJS have performance issues? ](https://www.codementor.io/officehours/1395094426/does-angularjs-have-performance-issues-a-conversation-with-stepan-suvorov)
   - [Building SPAs with Angular for Office 365, SharePoint Online & SharePoint 2013 On-Premises
@@ -51,7 +51,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   
 
 
-## Documentations:
+## Documentations
   - [AngularJS Official Tutorial](https://docs.angularjs.org/tutorial)
   - [DevDocs](http://devdocs.io/)
 
@@ -65,7 +65,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [Angular Course](https://www.angularcourse.com/#/)
 
 
-## Tips:
+## Tips
   - [AngularJS text formatting "on fly" example ](https://www.codementor.io/tips/3731824334/angularjs-text-formatting-on-fly-example)
   - [Example of how to use AngularJS $http service](https://www.codementor.io/tips/3815274433/code-example-of-using-angularjs-http-service)
   - [How to use Querystring with $location.path() in AngularJS](https://www.codementor.io/tips/9133438272/how-to-use-querystring-with-location-path-in-angularjs)
@@ -81,7 +81,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
 
 
 
-## Developer Tools:
+## Developer Tools
   - [AngularJS Batarang](https://chrome.google.com/webstore/detail/ighdmehidhipcmcojjgiloacoafjmpfk)
   - [JSFiddle](http://jsfiddle.net/)
   - [Yeoman](http://yeoman.io/)
