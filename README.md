@@ -1,9 +1,9 @@
 # Awesome-AngularJS
-If you don't know how to build applications with Javascript, be sure to take a look at [curated list for Javascript learning resources](https://www.codementor.io/learn-javascript-online) and go through some of the tutorials first. If you have some basic Javascript knowledge, here are a few resources you can use to get started with AngularJS.
+If you don't know how to build applications with Javascript, be sure to take a look at this [curated list of Javascript learning resources](https://www.codementor.io/learn-javascript-online) and go through some of the tutorials first. If you have some basic JavaScript knowledge, here are a few resources you can use to get started with AngularJS.
 
-## Best Learning Guides:
+## Best Collection of AngularJS Tutorials:
   - [AngularJS Learning Center](https://www.codementor.io/angularjs)
-  - [Learn AngularJS Online - A Guide](https://www.codementor.io/learn-angularjs)
+  - [A Guid to Learning AngularJS Online](https://www.codementor.io/learn-angularjs)
 
 ## Tutorials:
 
@@ -51,14 +51,14 @@ If you don't know how to build applications with Javascript, be sure to take a l
   
 
 
-## Ducumentations:
+## Documentations:
   - [AngularJS Official Tutorial](https://docs.angularjs.org/tutorial)
   - [DevDocs](http://devdocs.io/)
 
 
 ## Courses 
   - [Shaping Up with AnguarJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-  - [Pluralsight](http://www.pluralsight.com/courses/table-of-contents/angularjs-get-started)
+  - [Get Started with AngularJS](http://www.pluralsight.com/courses/table-of-contents/angularjs-get-started)
   - [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs)
   - [AngularJS JumpStart with Dan Wahlin](https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
   - [Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
@@ -67,7 +67,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
 
 ## Tips:
   - [AngularJS text formatting "on fly" example ](https://www.codementor.io/tips/3731824334/angularjs-text-formatting-on-fly-example)
-  - [Code example of using AngularJS $http service](https://www.codementor.io/tips/3815274433/code-example-of-using-angularjs-http-service)
+  - [Example of how to use AngularJS $http service](https://www.codementor.io/tips/3815274433/code-example-of-using-angularjs-http-service)
   - [How to use Querystring with $location.path() in AngularJS](https://www.codementor.io/tips/9133438272/how-to-use-querystring-with-location-path-in-angularjs)
   - [Angularjs getting data from a url](https://www.codementor.io/tips/2412383713/angularjs-getting-data-from-a-url)
   - [Service vs provider vs factory?](https://www.codementor.io/tips/8333241789/service-vs-provider-vs-factory)
@@ -77,7 +77,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [AngularJS Custom Filter by Tags](https://www.codementor.io/tips/8162473131/angularjs-custom-filter-by-tags)
   - [AngularJS - Value attribute on an input text box is ignored when there is a ng-model used?](https://www.codementor.io/tips/3712934848/angularjs-value-attribute-on-an-input-text-box-is-ignored-when-there-is-a-ng-model-used)
   - [How to evaluate an expression after an AngularJS controller has rendered?](https://www.codementor.io/tips/7214283378/how-to-evaluate-an-expression-after-an-angularjs-controller-has-rendered)
-  - [Don't pass $scope into your services, it could brake your code one day.](https://www.codementor.io/tips/7914213378/don-t-pass-scope-into-your-services-it-could-brake-your-code-one-day)
+  - [Don't pass $scope into your services, it could break your code one day.](https://www.codementor.io/tips/7914213378/don-t-pass-scope-into-your-services-it-could-brake-your-code-one-day)
 
 
 
