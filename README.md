@@ -45,10 +45,10 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [Building SPAs with Angular for Office 365, SharePoint Online & SharePoint 2013 On-Premises
 ](https://www.codementor.io/officehours/0639154029/angular-office-365)
   - [Building An Angular Hack Stack with Nick Van Weerdenburg](https://www.codementor.io/officehours/4601930522/building-an-angular-hack-stack)
-  - [Using Angular to Improve Page Responsiveness with Dr. Gleb Bahmutov, PhD 
+  - [Using Angular to Improve Page Responsiveness with Dr. Gleb Bahmutov, PhD
 ](https://www.codementor.io/officehours/6031492531/using-angular-to-improve-page-responsiveness-with-dr-gleb-bahmutov-phd)
   - [Egghead](https://egghead.io/)
-  
+
 
 
 ## Documentations
@@ -56,7 +56,7 @@ If you don't know how to build applications with Javascript, be sure to take a l
   - [DevDocs](http://devdocs.io/)
 
 
-## Courses 
+## Courses
   - [Shaping Up with AnguarJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
   - [Get Started with AngularJS](http://www.pluralsight.com/courses/table-of-contents/angularjs-get-started)
   - [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs)
